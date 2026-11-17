@@ -11,16 +11,16 @@ Before running the application, ensure that you have:
 * Option 1: Automated Setup (Recommended)
 
 Clone the repository:
-'git clone repo_link'
+```git clone repo_link```
 
 Navigate into the project directory:
-'cd ML_Homomorphic_encryption'
+```cd ML_Homomorphic_encryption```
 
 Make the execution script executable:
-'chmod +x run.sh'
+```chmod +x run.sh```
 
 Run the application:
-'./run.sh'
+```./run.sh```
 
 The script automatically:
 * Creates a Python virtual environment.
@@ -31,16 +31,16 @@ The script automatically:
 
 ## Option 2: Manual Setup
 Create a virtual environment:
-'python3 -m venv .venv'
+```python3 -m venv .venv```
 
 Activate it:
-'source .venv/bin/activate'
+```source .venv/bin/activate```
 
 Install dependencies:
-'pip install -r requirements.txt'
+```pip install -r requirements.txt```
 
 Execute the application:
-'python main.py'
+```python main.py```
 
 Expected Output: 
 After successful execution, the application displays:
