@@ -11,7 +11,7 @@ Before running the application, ensure that you have:
 * Option 1: Automated Setup (Recommended)
 
 Clone the repository:
-```git clone repo_link```
+```git clone https://github.com/CocoCat0/ML_Homomorphic_Encryption.git```
 
 Navigate into the project directory:
 ```cd ML_Homomorphic_encryption```
